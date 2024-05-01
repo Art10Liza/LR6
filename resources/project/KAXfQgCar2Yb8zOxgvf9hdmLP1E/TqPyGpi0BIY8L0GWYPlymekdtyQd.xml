@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info File="scripts/cIrws.m" GroupUUID="" Icon="" Name="cIrws" Type="Shutdown" Visible="0">
+    <Extension Name="ShutdownPrev" Value="24a371cb-5fd9-42f2-b844-7034af720fa7"/>
+</Info>
